@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginV1XML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FRIENDLY_NAME>DJI Tello Movement Panel</FRIENDLY_NAME>
+  <DLL_FILENAME>DJITelloMovementPanel.dll</DLL_FILENAME>
+  <AUTHOR_NAME>Synthiam Inc.</AUTHOR_NAME>
+  <LICENSE_URL>https://synthiam.com/Software/plugin-license.aspx</LICENSE_URL>
+  <PLUGIN_GUID>a28de4bc-2640-4b8d-8776-07e6b7c69764</PLUGIN_GUID>
+  <CATEGORY_TYPE>Movement Panels</CATEGORY_TYPE>
+  <DESCRIPTION>Control the DJI Tello drone from ARC and receive the camera video feed for tracking.</DESCRIPTION>
+  <VersionRelease>3</VersionRelease>
+</PluginV1XML>
